@@ -1,9 +1,8 @@
-## A step by step solver for math
+## A step by step solver for maths
 
 [![Join the chat at https://gitter.im/mathsteps-chat/Lobby](https://badges.gitter.im/mathsteps-chat/Lobby.svg)](https://gitter.im/mathsteps-chat/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/socraticorg/mathsteps.svg?branch=master)](https://travis-ci.org/socraticorg/mathsteps)
 
-https://www.youtube.com/watch?v=iCrargw1rrM
 
 ## Requirements
 
@@ -11,9 +10,9 @@ Mathsteps requires Node version > 6.0.0
 
 ## Usage
 
-To install mathsteps using npm:
+To install hurna-maths using npm:
 
-    npm install mathsteps
+    npm install hurna-maths
 
 ```js
 const mathsteps = require('mathsteps');
@@ -58,8 +57,8 @@ Learn more here: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 First clone the project from github:
 
-    git clone https://github.com/socraticorg/mathsteps.git
-    cd mathsteps
+    git clone https://github.com/hurna/hurna-maths.git
+    cd hurna-maths
 
 Install the project dependencies:
 

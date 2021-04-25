@@ -7,13 +7,12 @@
     "mathjs": "3.11.2"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=7.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.10.2",
-    "eslint-config-google": "^0.7.0",
-    "eslint-plugin-sort-requires": "^2.1.0",
-    "mocha": "2.4.5"
+    "eslint": "^6.4.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "6.0.2"
   },
   "scripts": {
     "lint": "node_modules/.bin/eslint .",
@@ -22,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/socraticorg/mathsteps.git"
+    "url": "git+https://github.com/hurna/hurna-maths.git"
   },
   "keywords": [
     "math",
@@ -31,12 +30,11 @@
     "cas",
     "computer",
     "algebra",
-    "system"
+    "hurna"
   ],
-  "author": "Evy Kassirer",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/socraticorg/mathsteps/issues"
+    "url": "https://github.com/hurna/hurna-maths/issues"
   },
-  "homepage": "https://github.com/socraticorg/mathsteps#readme"
+  "homepage": "https://hurna.io"
 }
